@@ -200,7 +200,7 @@ public class Array2Example {
 	
 	public void Bingo() {
 		
-		final int SIZE = 5;
+		int SIZE = 5;
 		int x = 0, y = 0, num = 0;
 		
 		int[][] bingo = new int[SIZE][SIZE];
