@@ -248,6 +248,7 @@ public class Array2Example {
 					}
 				}
 			}
+			
 		} while (num != 0);
 		
 		sc.close();
